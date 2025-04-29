@@ -1,0 +1,19 @@
+.bg-image {
+    background-image: url('../../assets/hero.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.hero-text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}

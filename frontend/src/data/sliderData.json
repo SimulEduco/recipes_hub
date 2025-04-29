@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Diet Recipes",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/slider/diet-recipes.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nutrition Recipes",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/slider/nutrition-recipes.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cuisine Recipes",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/slider/cuisines.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Keto Recipes",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/slider/analyze-recipes.png"
+  },
+  {
+    "id": 5,
+    "name": "Diet Recipes",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/slider/diet-recipes.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Nutrition Recipes",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/slider/nutrition-recipes.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Cuisine Recipes",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/slider/cuisines.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Keto Recipes",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/slider/analyze-recipes.png"
+  }
+]

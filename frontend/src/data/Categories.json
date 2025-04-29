@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Main Course",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/meal_types/main_course.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bread",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/meal_types/bread.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Marinade",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/meal_types/marinade.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Side Dish",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/meal_types/side_dish.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Breakfast",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/meal_types/breakfast.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Finger Food",
+    "imageUrl": "https://recipeshub.simuleduco.com/assets/images/meal_types/fingerfood.jpg"
+  }
+]
