@@ -1,0 +1,63 @@
+[
+  {
+    "id": 12345,
+    "name": "Rustic Red Wine Spaghetti",
+    "veg": true,
+    "imageUrl": "https://img.spoonacular.com/recipes/452116-312x231.jpg",
+    "categoryId": 1,
+    "servings" : 2,
+    "ReadyInMintues" : "40 mins",
+    "Healthscore":100,
+    "ingredients":["rosemary","garlic","mushrooms","olive oil","parmesan cheese","red wine","salt and pepper","savoy cabbage","walnuts","spaghetti"],
+    "summary": "Rustic Red Wine Spaghetti might be a good recipe to expand your main course recipe box. For $3.38 per serving, this recipe covers 47% of your daily requirements of vitamins and minerals. One serving contains 865 calories, 37g of protein, and 40g of fat. This recipe serves 2. A mixture of salt and pepper, garlic, walnuts, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It is brought to you by spoonacular user coffeebean. From preparation to the plate, this recipe takes approximately 40 minutes. If you like this recipe, you might also like recipes such as Rustic Blueberry Cake Clafoutis, Rustic Brie Toasts with Wild Mushroom, Cranberry and Shallot, and Rustic Grilled Peaches Pizza.",
+    "recipeNutrition":{
+        "Calories":42.8,
+        "Fat":61.4,
+        "Protein":70.6,
+        "Manganese":20
+    },
+    "steps":[
+        "In a small skillet, fry the garlic in olive oil until fragrant.",
+        "Add the mushrooms. When the mushrooms are almost done, add the fresh rosemary, be careful not to let it burn.",
+        "Add the mushrooms. When the mushrooms are almost done, add the fresh rosemary, be careful not to let it burn.",
+        "Once the cabbage is nearly done, pour half of the bottle of wine into a pot. Dilute with boiling water until you have enough to cook the pasta in (but try not",
+        "Add the spaghetti.",
+        "Drain the pasta, reserving about 1/4 cup of the pasta water."
+    ]
+  },
+  {
+    "id": 34532,
+    "name": "Alouette Chicken Paprika",
+    "veg": false,
+    "imageUrl": "https://img.spoonacular.com/recipes/632244-312x231.jpg",
+    "categoryId": 1
+  },
+  {
+    "id": 12345,
+    "name": "Rustic Red Wine Spaghetti",
+    "veg": true,
+    "imageUrl": "https://img.spoonacular.com/recipes/452116-312x231.jpg",
+    "categoryId": 3
+  },
+  {
+    "id": 23454,
+    "name": "Cranberry Pumpkin Bread",
+    "veg": true,
+    "imageUrl": "https://img.spoonacular.com/recipes/66686-312x231.jpg",
+    "categoryId": 2
+  },
+  {
+    "id": 346673,
+    "name": "Simit (Turkish Circular Bread)",
+    "veg": true,
+    "imageUrl": "https://img.spoonacular.com/recipes/631759-312x231.jpg",
+    "categoryId": 2
+  },
+  {
+    "id": 65515,
+    "name": "Cumin and Paprika Rubbed Chicken Drumsticks",
+    "veg": true,
+    "imageUrl": "https://img.spoonacular.com/recipes/631759-312x231.jpg",
+    "categoryId": 3
+  }
+]

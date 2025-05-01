@@ -15,7 +15,7 @@ export default function Header() {
                   </div>
               </div>
               <div className='search-form'>
-                  <input type="text" placeholder='Search For Recipes' class="form-control" />
+                  <input type="text" placeholder='Search For Recipes' className="form-control" />
               </div>
               <div>
                   <button className='btn btn-outline-primary'>SignIn</button>
