@@ -1,7 +1,8 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import Slider from "react-slick";
-import sliderData from '../../data/sliderData.json';
+// import sliderData from '../../data/sliderData.json';
 import './RecipeSlider.css';
+import axios from 'axios';
 
 export default function RecipeSlider() {
     var settings = {
@@ -10,6 +11,18 @@ export default function RecipeSlider() {
         slidesToShow: 6,
         slidesToScroll: 1,
     };
+
+    const [sliderData, setSliderData] = useState([]);
+
+   
+
+    useEffect(() => {
+        axios.get("http://localhost:3500/slider").then((response) => {
+            setSliderData(response.data);
+        });
+    }, []);
+
+    
     return (
         <div className='container'>
             <div>
